@@ -1,2 +1,3 @@
 # Python
-Python coding examples
+
+Examples of Python code
